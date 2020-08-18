@@ -7,12 +7,12 @@ O enunciado do teste está disponivel no gist: https://gist.github.com/onimaru/6
 A entrega da solução foi segregado em dois arquivos onde:
 
 1: 'Linha de Raciocínio.ipynb' ou 'Linha de Raciocínio.html'.
-É um documento que explica todas as etapas com detalhes de todas as análises que foram feitas para resolver o problema.
-Esse documento contém apenas texto e está estrutirado seguindo a ordem cronológica que a análise doi feita.
+Documento que explica todas as etapas com detalhes de todas as análises que foram feitas para resolver o problema.
+Esses documentos contém apenas textos estruturados seguindo uma ordem cronológica de todas as etapas da análise e solução do problema.
 
 2: 'Elo7 - Classificador de Produtos.ipynb'
 É um documento (jupyter notebook) que contém a implementação de todas as etapas descritas na linha de raciocionio.
-Esse documento contém textos e códigos intercalados de maneira cronológicas conforme análise e explicação das etapas.
+Esse documento contém textos e códigos intercalados de maneira cronológicas conforme explicação e codificações de todas as etapas.
 
 
     
